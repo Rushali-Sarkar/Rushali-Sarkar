@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=cobalt&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
