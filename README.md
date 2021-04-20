@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical&hide_border=true&cache_seconds=2000)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact&langs_count=10)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact&langs_count=10&hide_border=true&cache_seconds=2000)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
-[![Rushali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RushaliSarkar&layout=compact&theme=radical)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Rushali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RushaliSarkar&layout=compact&theme=radical&hide_border=true&cache_seconds=2000)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
 
 - 🔭 I’m currently working on polishing my DSA Skills
