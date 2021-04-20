@@ -1,11 +1,11 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=github-readme-stats&show_owner=true&theme=radical)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=github-readme-stats&show_owner=true&theme=radical)](https://github.com/Rushali-Sarkar/data-structures-algorithms)
 <br>
-[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)]()
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400)]()
 <br>
-[![Rushali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RushaliSarkar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/Rushali-Sarkar/github-readme-stats)
+[![Rushali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RushaliSarkar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)]()
 <br>
 
 - 🔭 I’m currently working on polishing my DSA Skills
