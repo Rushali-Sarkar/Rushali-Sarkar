@@ -9,6 +9,6 @@
 - 📫 How to reach me: Drop an email at, rushalisarkar2000@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read books and pet cats and dogs !
---> Visit my portfolio at : https://portfolios.talentsprint.com/~rushali
---> Or Read my blogs at : https://rushalisarkar.medium.com/
+- Visit my portfolio at : https://portfolios.talentsprint.com/~rushali
+- Or Read my blogs at : https://rushalisarkar.medium.com/
 
