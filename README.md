@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=haskell&show_owner=true&theme=radical)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=haskell&theme=radical)]()
 <br>
 [![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)]()
 <br>
