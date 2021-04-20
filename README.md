@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushali-Sarkar&show_icons=true&theme=radical)](https://github.com/Rushali-Sarkar/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushali-Sarkar&theme=radical&layout=compact)](https://github.com/Rushali-Sarkar/github-readme-stats)
 <br>
 - 🔭 I’m currently working on polishing my DSA Skills
 - 🌱 I’m currently learning C++ and Haskell
