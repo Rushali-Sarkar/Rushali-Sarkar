@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <br>
-[![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)]()
+
 <br>
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=haskell&show_owner=true&theme=radical&hide_border=true)]()
