@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Rushali's Perofile View](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=#ff69b4)]()
+[![Rushali's Perofile View](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ff69b4)]()
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushali-Sarkar&repo=haskell&show_owner=true&theme=radical&hide_border=true)]()
 <br>
